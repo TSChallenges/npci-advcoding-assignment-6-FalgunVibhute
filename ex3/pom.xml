@@ -9,7 +9,20 @@
   <url>https://maven.apache.org</url>
 
   <dependencies>
-    <!-- ADD YOUR Dependencies HERE -->
+    <!-- https://mvnrepository.com/artifact/org.springframework/spring-context -->
+<dependency>
+    <groupId>org.springframework</groupId>
+    <artifactId>spring-context</artifactId>
+    <version>6.2.2</version>
+</dependency>
+
+<!-- https://mvnrepository.com/artifact/org.springframework/spring-core -->
+    <dependency>
+      <groupId>org.springframework</groupId>
+      <artifactId>spring-core</artifactId>
+      <version>6.2.2</version>
+    </dependency>
+
   </dependencies>
 
   <properties>

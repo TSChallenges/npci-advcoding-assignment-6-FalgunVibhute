@@ -1,5 +1,7 @@
 package com.mystore.app;
+import org.springframework.stereotype.Component;
 
+@Component
 class Barcode {
 
     public Barcode() {
